@@ -12,8 +12,7 @@ Here are some of my work highlights:
 
 Feel free to reach out to me at monishwaran@berkeley.edu if you want to discuss more about my interests or potential collaborations. 
 
-In the past, I have worked on numerous applications of deep learning in healthcare, which I have talked about at **multiple international keynotes** and **TEDx conferences**. 
-
+In the past, I've contributed to a variety of deep learning applications within the healthcare sector, which I've discussed in numerous **international keynotes** and **TEDx talks**.
 
 <!--
 [![Monishwaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nietzsche2000&hide=contribs,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
