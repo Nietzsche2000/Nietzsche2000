@@ -12,6 +12,7 @@ Here are some of my work highlights:
 
 Feel free to reach out to me at monishwaran@berkeley.edu if you want to discuss more about my interests or potential collaborations. 
 
+In the past, I have worked on numerous applications of deep learning in healthcare, which I have talked about at **multiple international keynotes** and **TEDx conferences**. 
 
 
 <!--
